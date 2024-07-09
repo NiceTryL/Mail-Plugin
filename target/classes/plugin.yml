@@ -1,0 +1,9 @@
+name: MailPlugin
+version: '1.0-SNAPSHOT'
+main: me.nicetryl.mailplugin.MailPlugin
+api-version: '1.19'
+description: Mail Plugin
+commands:
+  mail:
+    description: Used to send mail to others
+
